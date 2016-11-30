@@ -1,0 +1,15 @@
+feat_name=SitoWeb Nginx SSL
+feat_losing=Il Virtual Host Nginx non accetterà più connessioni SSL
+feat_disname=SitoWeb Nginx SSL
+feat_label=Attiva Sito Nginx SSL?
+feat_label2=SitoWeb Nginx SSL
+feat_nginx=Non posso attivare un SitoWeb SSL fino a che non ce n'è attivo uno senza SSL
+feat_setup=SSL in attivazione nel Virtual Host Nginx...
+feat_delete=Rimozione di SSL dal Virtual Host Nginx...
+feat_esslcert=Nessun certificato SSL specificato per questo Virtual Host Nginx
+feat_esslcertfile=File $1 del Certificato SSL non esistente
+feat_esslkey=Nessuna chiave privata SSL specificata per questo Virtual Host Nginx
+feat_esslkeyfile=File $1 della Chiave Privata SSL non esistente
+feat_modifyport=Modifica della porta SSL nella configurazione Nginx in corso...
+feat_sslclash=SSL non può essere attivato all'indirizzo IP $1 e porta $2, perchè è già attivo nel Virtual Host Nginx $3
+feat_eplugindep=Il plugin SitoWeb Nginx SSL non può essere attivato fino a che SitoWeb Nginx non è attivo
